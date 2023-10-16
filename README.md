@@ -1,6 +1,6 @@
-# Giftee intern
+# Line bot travel route map
 
-Line bot travel route map
+Giftee intern
 
 ## 環境構築
 
